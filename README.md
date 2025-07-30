@@ -1,5 +1,5 @@
 # SQL Query Project
-This project serves as the capstone for the Microsoft Database Integration program, enhanced with AI integration."
+This project serves as the capstone for the Microsoft Database Integration program, enhanced with AI integration.
 
 ## Peers Feedback ✔
 This project received positive feedback from my peers, who were particularly impressed by the project's design.
